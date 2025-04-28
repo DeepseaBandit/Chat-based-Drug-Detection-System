@@ -1,0 +1,10 @@
+App configuration
+
+
+App api_id:
+
+25419333
+
+App api_hash:
+
+aa85c0a6195dd621fb0dad2ea6761b01
